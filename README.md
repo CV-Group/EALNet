@@ -41,7 +41,7 @@ The training code will be released after the acceptance of this paper
 
 ## Pretrained Weights
 
-The pretrained weights from [HERE]((https://1drv.ms/f/c/0abf45936cac74cd/Ej9NpF2NmQ1Ktaq9jC2yGFkB001YcQFqQFNNU-3SRw3wKQ?e=BXQf9B).
+The pretrained weights from [HERE](https://1drv.ms/f/c/0abf45936cac74cd/Ej9NpF2NmQ1Ktaq9jC2yGFkB001YcQFqQFNNU-3SRw3wKQ?e=BXQf9B).
 
 ## Results
 
